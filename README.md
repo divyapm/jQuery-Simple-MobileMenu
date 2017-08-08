@@ -48,7 +48,7 @@ $(".mobile_menu").slideMobileMenu({
 
 ### Include Stylesheet
 ```html
-<link rel="stylesheet" href="dist/css/simpleMobileMenu.css" />
+<link rel="stylesheet" href="dist/css/jquery-simple-mobilemenu.css" />
 ```
 
 ### Include JS
